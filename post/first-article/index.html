@@ -7,13 +7,19 @@
 <meta name="description" content="一个废物">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="shortcut icon" href="https://hapeboy.github.io//favicon.ico?v=1562594243384">
+<link rel="shortcut icon" href="https://hapeboy.github.io//favicon.ico?v=1562595418620">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://hapeboy.github.io//styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
@@ -72,9 +78,10 @@
             </p>
             
             <div class="post-content">
-              <p>一头闷进咖啡店角落的我随即便被一股肃杀的气氛包围。困惑的我把视线投向四周，目力所及，只是普通的生活场景：吧台上穿着围裙做咖啡的店员、座位上西装革履的沉默白领、学生、情侣，在他们的位置上有条不紊地各司其职。到底这股气氛从何而来？我不得其解。
-随着半杯咖啡下肚，思维被咖啡因支配，我再把视线投向周遭，终于恍然大悟：这些人无论是长头发短头发、胸大胸小，在脸上和后脑勺上都刻着硕大的「生人勿近」四个大字。</p>
+              <p>一头闷进咖啡店角落的我随即便被一股肃杀的气氛包围。困惑的我把视线投向四周，目力所及，只是普通的生活场景：吧台上穿着围裙做咖啡的店员、座位上西装革履的沉默白领、学生、情侣，在他们的位置上有条不紊地各司其职。到底这股气氛从何而来？我不得其解。</p>
+<p>随着半杯咖啡下肚，思维被咖啡因支配，我再把视线投向周遭，终于恍然大悟：这些人无论是长头发短头发、胸大胸小，在脸上和后脑勺上都不约而同地刻着硕大的「压力过大」、「生人勿近」八个大字。</p>
 <!-- more -->
+<p>在这个现代快节奏、卖批换不来黄金的社会，到处都充斥着这样肃杀的气氛，倒也不足为奇了</p>
 
             </div>
           </article>
@@ -83,11 +90,19 @@
           
         </div>
         
+          
+            <div class="paper" data-aos="fade-in">
+              <div id="gitalk-container"></div>
+            </div>
+          
+
+          
+        
       </div>
 
       <div class="sm-12 md-4 col sidebar">
   <div class="paper info-container">
-    <img src="https://hapeboy.github.io//images/avatar.png?v=1562594243384" class="no-responsive avatar">
+    <img src="https://hapeboy.github.io//images/avatar.png?v=1562595418620" class="no-responsive avatar">
     <div class="text-muted">一个废物</div>
     <div class="social-container">
       
@@ -148,6 +163,29 @@ AOS.init();
 hljs.initHighlightingOnLoad()
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '93ecf853e53b598d3771',
+        clientSecret: '45e4f649cc5c373c827d57249dca28826d2a8465',
+        repo: 'hapeboy.github.io',
+        owner: 'HapeBoy',
+        admin: ['HapeBoy'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
