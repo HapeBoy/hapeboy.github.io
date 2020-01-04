@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hapeboy.github.io/</id>
     <title>Hapeboy</title>
-    <updated>2019-07-09T05:47:18.326Z</updated>
+    <updated>2020-01-04T06:51:25.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hapeboy.github.io/"/>
-    <link rel="self" href="https://hapeboy.github.io//atom.xml"/>
+    <link rel="self" href="https://hapeboy.github.io/atom.xml"/>
     <subtitle>一个废物</subtitle>
-    <logo>https://hapeboy.github.io//images/avatar.png</logo>
-    <icon>https://hapeboy.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Hapeboy</rights>
+    <logo>https://hapeboy.github.io/images/avatar.png</logo>
+    <icon>https://hapeboy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Hapeboy</rights>
     <entry>
         <title type="html"><![CDATA[today's mumble]]></title>
-        <id>https://hapeboy.github.io//post/first-article</id>
-        <link href="https://hapeboy.github.io//post/first-article">
+        <id>https://hapeboy.github.io/post/first-article</id>
+        <link href="https://hapeboy.github.io/post/first-article">
         </link>
         <updated>2019-07-08T13:16:59.000Z</updated>
         <summary type="html"><![CDATA[<p>一头闷进咖啡店角落的我随即被一股肃杀的气氛包围。</p>
