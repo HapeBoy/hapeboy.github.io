@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hapeboy.github.io/</id>
+    <title>Hapeboy</title>
+    <updated>2022-05-21T06:24:52.388Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hapeboy.github.io/"/>
+    <link rel="self" href="https://hapeboy.github.io/atom.xml"/>
+    <subtitle>一个废物</subtitle>
+    <logo>https://hapeboy.github.io/images/avatar.png</logo>
+    <icon>https://hapeboy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Hapeboy</rights>
+    <entry>
+        <title type="html"><![CDATA[5月20日的夜晚，痛与痛苦]]></title>
+        <id>https://hapeboy.github.io/post/5-yue-20-ri-de-ye-wan-tong-yu-tong-ku/</id>
+        <link href="https://hapeboy.github.io/post/5-yue-20-ri-de-ye-wan-tong-yu-tong-ku/">
+        </link>
+        <updated>2022-05-20T12:14:17.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://hapeboy.github.io//post-images/1653113811613.png" alt="" loading="lazy"><br>
+🙂一定有什么大病才会在这个夜晚循环整个尼尔伪装者的原声8⃣️</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[today's mumble]]></title>
+        <id>https://hapeboy.github.io/post/first-article/</id>
+        <link href="https://hapeboy.github.io/post/first-article/">
+        </link>
+        <updated>2019-07-08T13:16:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>一头闷进咖啡店角落的我随即被一股肃杀的气氛包围。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一头闷进咖啡店角落的我随即被一股肃杀的气氛包围。</p>
+<!-- more -->
+<p>困惑的我把视线投向四周，目力所及，只是普通的生活场景：吧台上穿着围裙做咖啡的店员、座位上西装革履的沉默白领、学生、情侣，在他们的位置上有条不紊地各司其职。到底这股气氛从何而来？我不得其解。</p>
+<p>随着半杯咖啡下肚，思维被咖啡因支配，我再把视线投向周遭，终于恍然大悟：这些人无论是长头发短头发、胸大胸小、黄皮肤白皮肤，在脸上和后脑勺上都不约而同地刻着「压力过大」、「生人勿近」八个大字。</p>
+<p>「在这个现代快节奏、卖批换不来黄金的社会，到处都充斥着这样的气氛，倒也不足为奇了。」我心想。</p>
+<p>「又或者他们只是缺少一个供宣泄的恶臭互联网化粪池罢了。」我又心想。</p>
+]]></content>
+    </entry>
+</feed>
